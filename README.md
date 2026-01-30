@@ -129,14 +129,13 @@ Malwa Institute of Science and Technology, Indore (2021–2024)
 
 ## 🐍 Contribution Snake
 
-<!-- <div align="center">
-  <img src="https://github.com/Devendrasolanki03/Devendrasolanki03/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div> -->
+<div align="center">
+  <img src="https://github.com/pawansp7/pawansp7/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devendrasolanki03&label=Profile%20Views&color=0055FF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=pawansp7&label=Profile%20Views&color=0055FF&style=flat-square"/>
   <br>
   <i>Let’s connect and build something amazing together 🚀</i>
-</p>
